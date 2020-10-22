@@ -1,0 +1,271 @@
+--------------------------------------------- 16 --------------------------------------------------------------
+--------CLIENT0------------
+Packets send: 7034
+Packets received: 7034
+To average jitter einai 1339084 nanosec
+To SD of jitter einai 1339196.119805 nanosec
+Data received: 0.900480 MB
+Transfer time: 9.419122 seconds
+Goodput achieved: 0.095601 MB/s
+packet loss percentage:0.000000 %
+New connection accepted!
+Im ready to serveice client 0
+
+Stop recived from client 0
+
+--------CLIENT0------------
+Packets send: 53271
+Packets received: 53271
+To average jitter einai 184785 nanosec
+To SD of jitter einai 186294.766459 nanosec
+Data received: 6.818816 MB
+Transfer time: 9.843719 seconds
+Goodput achieved: 0.692707 MB/s
+packet loss percentage:0.000000 %
+New connection accepted!
+Im ready to serveice client 0
+
+Stop recived from client 0
+
+--------CLIENT0------------
+Packets send: 141196
+Packets received: 141196
+To average jitter einai 69593 nanosec
+To SD of jitter einai 100571.785109 nanosec
+Data received: 18.073216 MB
+Transfer time: 9.826271 seconds
+Goodput achieved: 1.839275 MB/s
+packet loss percentage:0.000000 %
+New connection accepted!
+Im ready to serveice client 0
+
+Stop recived from client 0
+
+--------CLIENT0------------
+Packets send: 158513
+Packets received: 158513
+To average jitter einai 58122 nanosec
+To SD of jitter einai 84497.858399 nanosec
+Data received: 20.289792 MB
+Transfer time: 9.213142 seconds
+Goodput achieved: 2.202266 MB/s
+packet loss percentage:0.000000 %
+New connection accepted!
+Im ready to serveice client 0
+
+Stop recived from client 0
+
+--------CLIENT0------------
+Packets send: 160024
+Packets received: 160024
+To average jitter einai 57261 nanosec
+To SD of jitter einai 83166.055377 nanosec
+Data received: 20.483200 MB
+Transfer time: 9.163184 seconds
+Goodput achieved: 2.235380 MB/s
+packet loss percentage:0.000000 %
+
+--------------------------------------------- 64--------------------------------------------------------------
+--------CLIENT0------------
+Packets send: 1887
+Packets received: 1887
+To average jitter einai 5179940 nanosec
+To SD of jitter einai 5180010.770288 nanosec
+Data received: 0.966656 MB
+Transfer time: 9.774552 seconds
+Goodput achieved: 0.098895 MB/s
+packet loss percentage:0.000000 %
+New connection accepted!
+Im ready to serveice client 0
+
+Stop recived from client 0
+
+--------CLIENT0------------
+Packets send: 16837
+Packets received: 16837
+To average jitter einai 570246 nanosec
+To SD of jitter einai 574097.967000 nanosec
+Data received: 8.621056 MB
+Transfer time: 9.601241 seconds
+Goodput achieved: 0.897911 MB/s
+packet loss percentage:0.000000 %
+New connection accepted!
+Im ready to serveice client 0
+
+Stop recived from client 0
+
+--------CLIENT0------------
+Packets send: 88420
+Packets received: 88420
+To average jitter einai 109566 nanosec
+To SD of jitter einai 135724.050337 nanosec
+Data received: 45.271552 MB
+Transfer time: 9.687859 seconds
+Goodput achieved: 4.673019 MB/s
+packet loss percentage:0.000000 %
+New connection accepted!
+Im ready to serveice client 0
+
+Stop recived from client 0
+
+--------CLIENT0------------
+Packets send: 156723
+Packets received: 156723
+To average jitter einai 61958 nanosec
+To SD of jitter einai 94860.855821 nanosec
+Data received: 80.242688 MB
+Transfer time: 9.710310 seconds
+Goodput achieved: 8.263659 MB/s
+packet loss percentage:0.000000 %
+New connection accepted!
+Im ready to serveice client 0
+
+Stop recived from client 0
+
+--------CLIENT0------------
+Packets send: 174117
+Packets received: 174117
+To average jitter einai 57411 nanosec
+To SD of jitter einai 85968.541630 nanosec
+Data received: 89.148416 MB
+Transfer time: 9.996405 seconds
+Goodput achieved: 8.918048 MB/s
+packet loss percentage:0.000000 %
+
+--------------------------------------------- 512--------------------------------------------------------------
+
+--------CLIENT0------------
+Packets send: 237
+Packets received: 237
+To average jitter einai 41022712 nanosec
+To SD of jitter einai 41022830.998853 nanosec
+Data received: 0.974848 MB
+Transfer time: 9.722387 seconds
+Goodput achieved: 0.100268 MB/s
+packet loss percentage:0.000000 %
+New connection accepted!
+Im ready to serveice client 0
+
+Stop recived from client 0
+
+--------CLIENT0------------
+Packets send: 2360
+Packets received: 2360
+To average jitter einai 4156342 nanosec
+To SD of jitter einai 4156392.791619 nanosec
+Data received: 9.670656 MB
+Transfer time: 9.808973 seconds
+Goodput achieved: 0.985899 MB/s
+packet loss percentage:0.000000 %
+New connection accepted!
+Im ready to serveice client 0
+
+Stop recived from client 0
+
+--------CLIENT0------------
+Packets send: 21285
+Packets received: 21285
+To average jitter einai 466893 nanosec
+To SD of jitter einai 477693.093116 nanosec
+Data received: 87.187456 MB
+Transfer time: 9.937832 seconds
+Goodput achieved: 8.773287 MB/s
+packet loss percentage:0.000000 %
+New connection accepted!
+Im ready to serveice client 0
+
+Stop recived from client 0
+
+--------CLIENT0------------
+Packets send: 101061
+Packets received: 101061
+To average jitter einai 97921 nanosec
+To SD of jitter einai 128833.605822 nanosec
+Data received: 413.949952 MB
+Transfer time: 9.896057 seconds
+Goodput achieved: 41.829786 MB/s
+packet loss percentage:0.000000 %
+New connection accepted!
+Im ready to serveice client 0
+
+Stop recived from client 0
+
+--------CLIENT0------------
+Packets send: 152003
+Packets received: 151895
+To average jitter einai 61224 nanosec
+To SD of jitter einai 97661.489928 nanosec
+Data received: 622.166016 MB
+Transfer time: 9.299773 seconds
+Goodput achieved: 66.901207 MB/s
+packet loss percentage:0.071051 %
+
+
+--------------------------------------------- 1024 ------------------------------------------------------------
+
+
+--------CLIENT0------------
+Packets send: 114
+Packets received: 114
+To average jitter einai 81988152 nanosec
+To SD of jitter einai 81988174.474586 nanosec
+Data received: 0.942080 MB
+Transfer time: 9.346654 seconds
+Goodput achieved: 0.100793 MB/s
+packet loss percentage:0.000000 %
+New connection accepted!
+Im ready to serveice client 0
+
+Stop recived from client 0
+
+--------CLIENT0------------
+Packets send: 1184
+Packets received: 1184
+To average jitter einai 8252611 nanosec
+To SD of jitter einai 8252697.024157 nanosec
+Data received: 9.707520 MB
+Transfer time: 9.771097 seconds
+Goodput achieved: 0.993493 MB/s
+packet loss percentage:0.000000 %
+New connection accepted!
+Im ready to serveice client 0
+
+Stop recived from client 0
+
+--------CLIENT0------------
+Packets send: 11084
+Packets received: 11084
+To average jitter einai 877739 nanosec
+To SD of jitter einai 881269.135375 nanosec
+Data received: 90.808320 MB
+Transfer time: 9.728868 seconds
+Goodput achieved: 9.333904 MB/s
+packet loss percentage:0.000000 %
+New connection accepted!
+Im ready to serveice client 0
+
+Stop recived from client 0
+
+--------CLIENT0------------
+Packets send: 68125
+Packets received: 68125
+To average jitter einai 138249 nanosec
+To SD of jitter einai 139442.280801 nanosec
+Data received: 558.088192 MB
+Transfer time: 9.418278 seconds
+Goodput achieved: 59.255866 MB/s
+packet loss percentage:0.000000 %
+New connection accepted!
+Im ready to serveice client 0
+
+Stop recived from client 0
+
+--------CLIENT0------------
+Packets send: 147906
+Packets received: 147906
+To average jitter einai 65677 nanosec
+To SD of jitter einai 100003.356669 nanosec
+Data received: 1211.654144 MB
+Transfer time: 9.714109 seconds
+Goodput achieved: 124.731373 MB/s
+packet loss percentage:0.000000 %

@@ -1,0 +1,1 @@
+gcc -o main main.c server.c client.c lab3header.h -g -lm -pthread
