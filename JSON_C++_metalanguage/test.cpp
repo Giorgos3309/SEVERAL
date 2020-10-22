@@ -1,0 +1,4 @@
+#include "JSONlang.h"
+
+PROGRAMM_BEGIN
+PROGRAMM_END
