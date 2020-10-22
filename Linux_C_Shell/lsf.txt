@@ -1,0 +1,9 @@
+ls ls_file.txt ls
+ls_file.txt
+lsf.txt
+makefile
+myshell
+myshell.c
+myshell.o
+readme.txt
+td.h>ls
